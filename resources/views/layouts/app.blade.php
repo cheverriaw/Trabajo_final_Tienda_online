@@ -96,15 +96,7 @@
                             </div>
 
                             <div class="wrap-icon right-section">
-                                <div class="wrap-icon-section wishlist">
-                                    <a href="#" class="link-direction">
-                                        <i class="fa fa-heart" aria-hidden="true"></i>
-                                        <div class="left-info">
-                                            <span class="index">0 item</span>
-                                            <span class="title">Wishlist</span>
-                                        </div>
-                                    </a>
-                                </div>
+                                
                                 <div class="wrap-icon-section minicart">
                                     <a href="#" class="link-direction">
                                         <i class="fa fa-shopping-basket" aria-hidden="true"></i>
@@ -136,20 +128,18 @@
                                         <a href="principal" class="link-term mercado-item-title"><i class="fa fa-home" aria-hidden="true"></i></a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="acerca" class="link-term mercado-item-title">About Us</a>
+                                        <a href="acerca" class="link-term mercado-item-title">Acerca de nosotros</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="compras" class="link-term mercado-item-title">Shop</a>
+                                        <a href="compras" class="link-term mercado-item-title">compras</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="carrito" class="link-term mercado-item-title">Cart</a>
+                                        <a href="carrito" class="link-term mercado-item-title">Carrito</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="verificar" class="link-term mercado-item-title">Checkout</a>
+                                        <a href="verificar" class="link-term mercado-item-title">verificar</a>
                                     </li>
-                                    <li class="menu-item">
-                                        <a href="contact-us.html" class="link-term mercado-item-title">Contact Us</a>
-                                    </li>																	
+                                   																
                                 </ul>
                             </div>
                         </div>

@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Cliente;
+use App\Models\Producto;
 
 
 class VerificarController extends Controller
@@ -26,6 +27,7 @@ class VerificarController extends Controller
     public function index()
     {
         $clientes = Cliente::all();
+        
        
         return view('verificar',['clientes'=>$clientes]);
     }

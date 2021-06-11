@@ -102,7 +102,8 @@ class ProductoController extends Controller
         $categorias = json_decode($categorias);
         $proveedores = Proveedore::all();
         $proveedores = json_decode($proveedores);
-        return view('detalles', compact('producto', 'categorias', 'proveedores'));
+        return view('producto.show', compact('producto', 'categorias', 'proveedores'));
+        
     }
 
 
